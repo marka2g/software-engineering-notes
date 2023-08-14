@@ -1,0 +1,26 @@
+# Software Engineering Notes
+
+```elixir
+Mix.install([
+  {:kino, "~> 0.10.0"},
+  {:kino_explorer, "~> 0.1.8"},
+  {:kina, "~> 0.1.4"},
+  {:kino_db, "~> 0.2.1"}
+])
+```
+
+## Fundamentals
+
+> ### Computer Hardware
+> 
+> ### [Back of the Envelope Estimation & Powers of 2](fundamentals/boe_powers_of_two.livemd)
+
+## Data Structures
+
+## Algorithms
+
+## Languages
+
+> ### Elixir
+> 
+> ### SQL(Postgres)
